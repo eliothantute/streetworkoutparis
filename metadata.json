@@ -1,0 +1,6 @@
+{
+  "name": "Street Workout Paris",
+  "description": "A beautifully designed, interactive catalog and map of street workout and calisthenics spots in Paris.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
